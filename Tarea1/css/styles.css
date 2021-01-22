@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+	margin: 10px;
+}
+
+header {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+ul {
+	display: flex;
+	justify-content: flex-end;
+}
+
+#contenido {
+	color:#252525;
+}
+
+footer {
+    
+    position: absolute;
+    bottom: 0;
+}
