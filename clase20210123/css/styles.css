@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+li{
+    list-style: none;
+    margin: 10px;
+
+}
+header{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+ul{
+display: flex;
+justify-content: flex-end;
+}
+.hihome{ /*para conjuntos en una clase*/
+color: red;
+}
+#test1{/*para personalizar elemento específico*/
+    color: blue;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+}
