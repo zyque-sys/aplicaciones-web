@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Chat</title>
+	</head>
+	<style>
+		#divonlineusers,h3{
+			display:flex;
+			justify-content: flex-end;
+		}
+	</style>
+	<body>
+		<h1>Chat (websockets)</h1>
+
+        <div id="divmessages"></div>
+		<h3>
+			<strong>Online users:</strong>
+		</h3>
+		<div id="divonlineusers"></div>
+        
+        <form onsubmit="return addMessage(this)">
+            <input type="text" id="username" placeholder="Type username">
+            <input type="text" id="text" placeholder="Type something">
+    
+            <input type="submit" value="Send">
+        </form>
+
+		<script src="../node_modules/socket.io/client-dist/socket.io.js"></script>
+		<script src="js/scripts.js"></script>
+	</body>
+</html>
