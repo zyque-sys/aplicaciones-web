@@ -4,156 +4,50 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/styles.css" rel="stylesheet">
-    <script src="js/scripts.js" async></script>
     <title>Juego de Cartas </title>
 </head>
 <body>
-    <h1 class="game-title">Juego de memoria</h1>
-    <div class="overlay-text">
-        Empezar a jugar
-      </div>
-      <div id="victory-text" class="overlay-text">
-        GANASTE
-        <span class="overlay-text-small">Volver a Jugar</span>
-        </div>
-    <div class="game-container">
-        <div class="game-info-container">
-          <div class="game-info">
-            Movimientos <span id="movesamt">0</span>
-          </div>
-        </div>
-    
-        <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-            
-          </div>
-          <div class="card">
-            <div class="card-back card-face">
-              <img class="back-card" src="img/portal.png">
-            </div>
-            <div class="card-front card-face">
-              <img class="card-value" src="img/portal.png">
-            </div>
-            
-          </div>
-        </div>
+  <div id="modal-result" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h1 id="winner-result-text"></h1>
+    </div>
+  </div>
 
+  <header>
+    <h1>Juego de memoria</h1>
+  </header>
+
+<section class="flips-counter">
+    Movimientos <span id="flips">0</span>
+</section>
+      <section class="board-container">
+    <div class="board">
+      <div class="square" data-key="1" onclick="move(1)"></div>
+      <div class="square" data-key="2" onclick="move(2)"></div>
+      <div class="square" data-key="3" onclick="move(3)"></div>
+      <div class="square" data-key="4" onclick="move(4)"></div>
+      <div class="square" data-key="2" onclick="move(5)"></div>
+      <div class="square" data-key="5" onclick="move(6)"></div>
+      <div class="square" data-key="6" onclick="move(7)"></div>
+      <div class="square" data-key="6" onclick="move(8)"></div>
+      <div class="square" data-key="1" onclick="move(9)"></div>
+      <div class="square" data-key="5" onclick="move(10)"></div>
+      <div class="square" data-key="7" onclick="move(11)"></div>
+      <div class="square" data-key="3" onclick="move(12)"></div>
+      <div class="square" data-key="8" onclick="move(13)"></div>
+      <div class="square" data-key="7" onclick="move(14)"></div>
+      <div class="square" data-key="8" onclick="move(15)"></div>
+      <div class="square" data-key="4" onclick="move(16)"></div>
+    </div>
+  </section>
+      
+  <section class="play-again-container">
+          <div>
+              <a onclick="init()">Jugar de nuevo</a>
+          </div>
+  </section>
+
+  <script src="js/scripts.js"></script>
 </body>
 </html>
