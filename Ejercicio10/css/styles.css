@@ -1,0 +1,40 @@
+body{
+padding-left: 3%;
+padding-right: 3%;
+}
+.navbar{
+    background-color: rgb(34, 34, 34);
+    color:blanchedalmond;
+}
+.footer {
+	background-color:  rgb(34, 34, 34); 
+	margin: 0px auto;
+	padding: 20px 0px;
+}
+.footer h3,h5{
+    color:rgb(196, 189, 179);
+}
+
+.navbar li{
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    padding: 3px;
+}
+.navbar a{
+    font-style: none;
+    color:blanchedalmond;
+}
+
+.grandota{
+    display:flex;
+    justify-content:center;
+}
+#minilink{
+    display: flex;
+    justify-content: flex-end;
+}
+#bloque1 h3{
+    display:flex;
+    justify-content: flex-end;
+}
