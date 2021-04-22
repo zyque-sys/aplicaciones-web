@@ -1,0 +1,15 @@
+{
+  "name": "dicegame",
+  "version": "1.0.0",
+  "description": "juego de la clase programacionweb",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nayla Leyva <180416@upbc.edu.mx>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

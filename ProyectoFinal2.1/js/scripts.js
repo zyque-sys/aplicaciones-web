@@ -2,11 +2,30 @@ const cards = document.querySelectorAll('.square');
 
 let hasFlippedCard = false;
 let card1, card2;
+
 function init() {
     hasFlippedCard=false;
     cards.forEach(cards => cards.addEventListener('click', flipCard));
+   
 }
-cards.forEach(cards => cards.addEventListener('click', flipCard));
+
+const render = (data, dataRicknMorty) => {
+	let html = data
+		.map((elem) => {
+			var randomnumber = Math.floor(Math.random() * (8 - 0 + 1)) + 0;
+			var image = dataRicknMorty.results[randomnumber].image;
+			return `
+            <div class="photo">
+                <img src="${image}" alt="${dataRicknMorty.results[randomnumber].name}" height="50px" />
+            </div>
+        `;
+		})
+		.join(' ');
+
+	document.getElementById('square').innerHTML = html;
+};
+
+
 
 function flipCard() {
   this.classList.add('flip');

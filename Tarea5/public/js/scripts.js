@@ -30,12 +30,13 @@ readCars();
 function addCar() {
 	debugger;
 	let name = document.getElementById('name').value;
-	let lastname = document.getElementById('lastname').value;
+	let model = document.getElementById('model').value;
+	let year = document.getElementById('year').value;
 
 	if (name && model && year) {
 		let rawText = `{
 			"name": "${name}",
-			"model": "${model}"
+			"model": "${model}",
 			"year": "${year}"
 		}`;
 

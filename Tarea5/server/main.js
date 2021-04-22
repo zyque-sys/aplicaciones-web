@@ -32,7 +32,7 @@ const writeFile = (fileData, callback, filePath) => {
 app.get('/cars', (req, res) => {
 	readFile((data) => {
 		res.status(200).send(data);
-	}, dataPathPersons);
+	}, dataPathCars);
 });
 
 app.post('/addcar', (req, res) => {
