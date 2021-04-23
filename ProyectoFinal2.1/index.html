@@ -16,35 +16,36 @@
 
   <header>
     <h1>Juego de memoria</h1>
+    <section class="flips-counter">
+      Movimientos :<span id="flips">0</span>
+  </section>
   </header>
 
-<section class="flips-counter">
-    Movimientos <span id="flips">0</span>
-</section>
+
       <section class="board-container">
     <div class="board">
-      <div class="square" data-key="1" onclick="move(1)"></div>
-      <div class="square" data-key="2" onclick="move(2)"></div>
-      <div class="square" data-key="3" onclick="move(3)"></div>
-      <div class="square" data-key="4" onclick="move(4)"></div>
-      <div class="square" data-key="2" onclick="move(5)"></div>
-      <div class="square" data-key="5" onclick="move(6)"></div>
-      <div class="square" data-key="6" onclick="move(7)"></div>
-      <div class="square" data-key="6" onclick="move(8)"></div>
-      <div class="square" data-key="1" onclick="move(9)"></div>
-      <div class="square" data-key="5" onclick="move(10)"></div>
-      <div class="square" data-key="7" onclick="move(11)"></div>
-      <div class="square" data-key="3" onclick="move(12)"></div>
-      <div class="square" data-key="8" onclick="move(13)"></div>
-      <div class="square" data-key="7" onclick="move(14)"></div>
-      <div class="square" data-key="8" onclick="move(15)"></div>
-      <div class="square" data-key="4" onclick="move(16)"></div>
+      <div class="square" data-key="1" onclick="flipCards(1)"></div>
+      <div class="square" data-key="2" onclick="flipCards(2)"></div>
+      <div class="square" data-key="3" onclick="flipCards(3)"></div>
+      <div class="square" data-key="4" onclick="flipCards(4)"></div>
+      <div class="square" data-key="5" onclick="flipCards(5)"></div>
+      <div class="square" data-key="6" onclick="flipCards(6)"></div>
+      <div class="square" data-key="7" onclick="flipCards(7)"></div>
+      <div class="square" data-key="8" onclick="flipCards(8)"></div>
+      <div class="square" data-key="9" onclick="flipCards(9)"></div>
+      <div class="square" data-key="10" onclick="flipCards(10)"></div>
+      <div class="square" data-key="11" onclick="flipCards(11)"></div>
+      <div class="square" data-key="12" onclick="flipCards(12)"></div>
+      <div class="square" data-key="13" onclick="flipCards(13)"></div>
+      <div class="square" data-key="14" onclick="flipCards(14)"></div>
+      <div class="square" data-key="15" onclick="flipCards(15)"></div>
+      <div class="square" data-key="16" onclick="flipCards(16)"></div>
     </div>
   </section>
       
   <section class="play-again-container">
           <div>
-              <a onclick="init()">Jugar de nuevo</a>
+              <a onclick="restart()">Jugar de nuevo</a>
           </div>
   </section>
 

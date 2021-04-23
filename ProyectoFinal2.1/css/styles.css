@@ -24,13 +24,18 @@ header {
 
 /* PLAYERS STARTS */
 
-.square .flip{
+.square{
 background-color: limegreen;
 }
 /* BOARD STARTS */
 .board-container {
 	margin: 10px 0;
 	text-align: center;
+}
+img{
+	width: fit-content;
+	height: fit-content;
+	border-radius: 5px;
 }
 .board-container .board {
 	margin: 0 auto;

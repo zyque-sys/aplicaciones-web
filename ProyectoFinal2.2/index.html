@@ -1,33 +1,54 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juego de los dados</title>
+    <title>Juego del dado</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <header>
-        <h1>Juego de los dados</h1>
-    </header>
-    <section class="new-game-container">
-        <a id="new-game-button" onclick="init()">Iniciar</a>
-    </section>
-<section class="game container">
-    <section class="info-container">
-        <div class="info">
-            <h3>Jugador 1</h3>
-            <div class="p1-info-score">Puntaje: 0</div>
+    <section class="container">
+        <div class="item header">
+            <header class="header">
+                <h1 id="title">Juego de los dados</h1>
+                <a onclick="restart()" style="font-size: 40px; cursor: pointer;">Jugar de nuevo</a>
+            </header>
+            
+            <div id="modal-result" class="modal">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <h1 id="winner-text-result"></h1>
+                </div>
+            </div>
+        </div>
+        <div class="item player1" id="player1">
+            <h1 id="playerID">Jugador 1</h1>
+            <hr>
+            <h1>Puntuación final:</h1>
+            <div id="totalScoreP1"></div>
+            <h1 id="scores">Puntaje:</h1>
+            <div id="tempScoreP1"></div>
+        </div>
+        <div class="item turnpanel">
+            <div class="dicecouple" style="padding-bottom: 30px; ">
+                <div id="dice1" style="padding-top: 20px;"></div>
+            </div>
+            <div class="dicecouple" style="padding-bottom: 30px; ;">
+                <div id="dice2" style="padding-top: 20px;"></div>
+            </div>
+            <button class="button" onclick="RollDice()">Tirar dados</button>
+            <button class="button" onclick="Shift()">Espera tu turno</button>
+        </div>
+        <div class="item" id="player2">
+            <h1 id="playerID">Jugador 2</h1>
+            <hr>
+            <h1>Puntuación final</h1>
+            <div id="totalScoreP2"></div>
+            <h1 id="scores">Puntaje:</h1>
+            <div id="tempScoreP2"></div>
         </div>
     </section>
-    <section class="info-container">
-        <div class="info">
-            <h3>Jugador 2</h3>
-            <div class="p2-info-score">Puntaje: 0</div>
-        </div>
-    </section>
-</section>
- 
-
-   
+    
 </body>
+<script src="js/script.js"></script>
 </html>
