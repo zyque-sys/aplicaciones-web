@@ -7,7 +7,7 @@ var scoreP2 = document.getElementById("totalScoreP2");
 var tempscoreP1 = document.getElementById("tempScoreP1");
 var tempscoreP2 = document.getElementById("tempScoreP2");
 var turn = 1;
-var dice = "img/dices.png";
+var dice = "img/dice.png";
 var Dices = ["img/dice1.png", "img/dice2.png", "img/dice3.png", "img/dice4.png", "img/dice5.png", "img/dice6.png"];
 var num1;
 var num2;
