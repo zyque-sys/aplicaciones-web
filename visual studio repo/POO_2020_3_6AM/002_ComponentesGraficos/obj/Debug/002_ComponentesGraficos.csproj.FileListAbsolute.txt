@@ -1,0 +1,11 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\bin\Debug\002_ComponentesGraficos.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\bin\Debug\002_ComponentesGraficos.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\bin\Debug\002_ComponentesGraficos.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\002_ComponentesGraficos.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\_002_ComponentesGraficos.MiFormulario.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\_002_ComponentesGraficos.Practicas.Controles.EquipoBaseball.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\_002_ComponentesGraficos.Properties.Resources.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\002_ComponentesGraficos.csproj.GenerateResource.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\002_ComponentesGraficos.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\002_ComponentesGraficos.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\002_ComponentesGraficos\obj\Debug\002_ComponentesGraficos.pdb

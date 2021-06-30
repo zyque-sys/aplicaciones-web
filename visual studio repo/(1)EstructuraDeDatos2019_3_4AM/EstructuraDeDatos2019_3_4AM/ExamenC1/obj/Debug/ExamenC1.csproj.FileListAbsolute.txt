@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\ExamenC1\bin\Debug\ExamenC1.exe.config
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\ExamenC1\bin\Debug\ExamenC1.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\ExamenC1\bin\Debug\ExamenC1.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\ExamenC1\obj\Debug\ExamenC1.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\ExamenC1\obj\Debug\ExamenC1.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\ExamenC1\obj\Debug\ExamenC1.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\ExamenC1\obj\Debug\ExamenC1.pdb

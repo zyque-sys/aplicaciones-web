@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\_001_IntroPoo.exe.config
+C:\Users\leder\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\_001_IntroPoo.exe
+C:\Users\leder\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\_001_IntroPoo.pdb
+C:\Users\leder\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.exe
+C:\Users\leder\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.pdb

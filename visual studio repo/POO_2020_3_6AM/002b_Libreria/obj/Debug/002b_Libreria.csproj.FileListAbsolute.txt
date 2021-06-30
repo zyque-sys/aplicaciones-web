@@ -1,0 +1,12 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\bin\Debug\Imagenes\babyFox.png
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\bin\Debug\002b_Libreria.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\bin\Debug\002b_Libreria.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\bin\Debug\002b_Libreria.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\002b_Libreria.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\_002b_Libreria.Form1.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\_002b_Libreria.PanelDeDibujo.Dibujo.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\_002b_Libreria.Properties.Resources.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\002b_Libreria.csproj.GenerateResource.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\002b_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\002b_Libreria.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_Libreria\obj\Debug\002b_Libreria.pdb

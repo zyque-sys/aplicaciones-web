@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\parametrosConsola\parametrosConsola\bin\Debug\parametrosConsola.exe.config
+C:\Users\leder\source\repos\parametrosConsola\parametrosConsola\bin\Debug\parametrosConsola.exe
+C:\Users\leder\source\repos\parametrosConsola\parametrosConsola\bin\Debug\parametrosConsola.pdb
+C:\Users\leder\source\repos\parametrosConsola\parametrosConsola\obj\Debug\parametrosConsola.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\parametrosConsola\parametrosConsola\obj\Debug\parametrosConsola.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\parametrosConsola\parametrosConsola\obj\Debug\parametrosConsola.exe
+C:\Users\leder\source\repos\parametrosConsola\parametrosConsola\obj\Debug\parametrosConsola.pdb

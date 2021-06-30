@@ -1,0 +1,8 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\bin\Debug\005cWindowsFormsDatosSencillos.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\bin\Debug\005cWindowsFormsDatosSencillos.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\bin\Debug\005cWindowsFormsDatosSencillos.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\obj\Debug\_005cWindowsFormsDatosSencillos.Properties.Resources.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\obj\Debug\005cWindowsFormsDatosSencillos.csproj.GenerateResource.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\obj\Debug\005cWindowsFormsDatosSencillos.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\obj\Debug\005cWindowsFormsDatosSencillos.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\005cWindowsFormsDatosSencillos\obj\Debug\005cWindowsFormsDatosSencillos.pdb

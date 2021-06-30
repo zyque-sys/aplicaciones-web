@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\Programacion2019_2\_3_Practica3\bin\Debug\_3_Practica3.exe.config
+C:\Users\leder\source\repos\Programacion2019_2\_3_Practica3\bin\Debug\_3_Practica3.exe
+C:\Users\leder\source\repos\Programacion2019_2\_3_Practica3\bin\Debug\_3_Practica3.pdb
+C:\Users\leder\source\repos\Programacion2019_2\_3_Practica3\obj\Debug\_3_Practica3.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\Programacion2019_2\_3_Practica3\obj\Debug\_3_Practica3.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\Programacion2019_2\_3_Practica3\obj\Debug\_3_Practica3.exe
+C:\Users\leder\source\repos\Programacion2019_2\_3_Practica3\obj\Debug\_3_Practica3.pdb

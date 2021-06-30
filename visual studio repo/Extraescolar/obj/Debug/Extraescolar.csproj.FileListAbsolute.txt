@@ -1,0 +1,7 @@
+C:\Programacion\repos\Programacion2019_2\Extraescolar\obj\Debug\Extraescolar.csprojAssemblyReference.cache
+C:\Programacion\repos\Programacion2019_2\Extraescolar\obj\Debug\Extraescolar.csproj.CoreCompileInputs.cache
+C:\Programacion\repos\Programacion2019_2\Extraescolar\bin\Debug\Extraescolar.exe.config
+C:\Programacion\repos\Programacion2019_2\Extraescolar\bin\Debug\Extraescolar.exe
+C:\Programacion\repos\Programacion2019_2\Extraescolar\bin\Debug\Extraescolar.pdb
+C:\Programacion\repos\Programacion2019_2\Extraescolar\obj\Debug\Extraescolar.exe
+C:\Programacion\repos\Programacion2019_2\Extraescolar\obj\Debug\Extraescolar.pdb

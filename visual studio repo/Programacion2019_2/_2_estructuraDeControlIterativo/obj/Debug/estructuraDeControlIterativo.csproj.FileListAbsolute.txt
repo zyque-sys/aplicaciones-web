@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\Programacion2019_2\estructuraDeControlIterativo\bin\Debug\estructuraDeControlIterativo.exe.config
+C:\Users\leder\source\repos\Programacion2019_2\estructuraDeControlIterativo\bin\Debug\estructuraDeControlIterativo.exe
+C:\Users\leder\source\repos\Programacion2019_2\estructuraDeControlIterativo\bin\Debug\estructuraDeControlIterativo.pdb
+C:\Users\leder\source\repos\Programacion2019_2\estructuraDeControlIterativo\obj\Debug\estructuraDeControlIterativo.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\Programacion2019_2\estructuraDeControlIterativo\obj\Debug\estructuraDeControlIterativo.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\Programacion2019_2\estructuraDeControlIterativo\obj\Debug\estructuraDeControlIterativo.exe
+C:\Users\leder\source\repos\Programacion2019_2\estructuraDeControlIterativo\obj\Debug\estructuraDeControlIterativo.pdb

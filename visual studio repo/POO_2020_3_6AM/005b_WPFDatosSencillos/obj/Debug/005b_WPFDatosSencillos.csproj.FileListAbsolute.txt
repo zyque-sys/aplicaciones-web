@@ -1,0 +1,5 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\005b_WPFDatosSencillos\obj\Debug\005b_WPFDatosSencillos.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\005b_WPFDatosSencillos\obj\Debug\MainWindow.g.cs
+C:\Users\leder\source\repos\POO_2020_3_6AM\005b_WPFDatosSencillos\obj\Debug\App.g.cs
+C:\Users\leder\source\repos\POO_2020_3_6AM\005b_WPFDatosSencillos\obj\Debug\005b_WPFDatosSencillos_MarkupCompile.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\005b_WPFDatosSencillos\obj\Debug\005b_WPFDatosSencillos_MarkupCompile.lref

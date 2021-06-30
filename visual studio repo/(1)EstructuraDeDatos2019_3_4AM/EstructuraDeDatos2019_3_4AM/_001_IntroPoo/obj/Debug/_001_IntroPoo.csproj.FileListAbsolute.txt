@@ -1,0 +1,12 @@
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.csprojAssemblyReference.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\_001_IntroPoo.exe.config
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\_001_IntroPoo.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\_001_IntroPoo.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\Librerias.dll
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\bin\Debug\Librerias.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.csproj.CopyComplete
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_001_IntroPoo\obj\Debug\_001_IntroPoo.pdb

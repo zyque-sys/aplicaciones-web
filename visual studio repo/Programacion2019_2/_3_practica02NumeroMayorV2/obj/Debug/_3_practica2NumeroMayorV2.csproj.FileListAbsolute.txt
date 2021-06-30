@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\Programacion2019_2\_3_practica2NumeroMayorV2\bin\Debug\_3_practica2NumeroMayorV2.exe.config
+C:\Users\leder\source\repos\Programacion2019_2\_3_practica2NumeroMayorV2\bin\Debug\_3_practica2NumeroMayorV2.exe
+C:\Users\leder\source\repos\Programacion2019_2\_3_practica2NumeroMayorV2\bin\Debug\_3_practica2NumeroMayorV2.pdb
+C:\Users\leder\source\repos\Programacion2019_2\_3_practica2NumeroMayorV2\obj\Debug\_3_practica2NumeroMayorV2.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\Programacion2019_2\_3_practica2NumeroMayorV2\obj\Debug\_3_practica2NumeroMayorV2.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\Programacion2019_2\_3_practica2NumeroMayorV2\obj\Debug\_3_practica2NumeroMayorV2.exe
+C:\Users\leder\source\repos\Programacion2019_2\_3_practica2NumeroMayorV2\obj\Debug\_3_practica2NumeroMayorV2.pdb

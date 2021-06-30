@@ -1,0 +1,188 @@
+﻿<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="_002_PaginaPhishingUPBC.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Pagina phishing upbc</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <a href="App_LocalResources/">App_LocalResources/</a>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+    
+    <link href="Content/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        </form>
+   
+            
+        <header>
+    <nav>
+      <div class="logo">
+          <a href="index.html"><h4>UPBC</h4></a>
+      </div>
+      <ul class="icons">
+        <li>
+          <img src="img/upbcsmall.png" alt="logoupbc" height="45px">
+        </li>
+        <li class="bubble">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+        </li>
+        <li class="bubble">
+          <a href="#"><i class="fab fa-twitter"></i></a>
+        </li>
+        <li>
+          <a href="#"><img src="img/siaaxa.png" alt="siaaxalumnos" height="45px"></a>
+        </li>
+        <li>
+          <a href="#"><img src="img/siaaxm.png" alt="siaaxmaestros" height="45px"></a>
+        </li>
+      </ul>
+      <ul class="nav-links">
+          <li><a class="active" href="#">Inicio</a></li>
+          <li>
+              <div class="dropdown">
+              <button class="dropbtn">Universidad</button>
+              <div class="dropdown-content">
+                <a href="#">Rectoría</a><hr>
+                <a href="#">Institución</a><hr>
+                <a href="#">Su creación</a><hr>
+                <a href="#">Cultura</a><hr>
+                <a href="#">Salud</a><hr>
+                <a href="#">Normatividad</a><hr>
+                <a href="#">Transparencia</a><hr>
+                <a href="#">Instalaciones</a><hr>
+                <a href="#">Gestión</a>
+              </div>
+          </div>
+          </li>
+          <li>
+              <div class="dropdown">
+              <button class="dropbtn">Oferta Educativa</button>
+              <div class="dropdown-content">
+                <a href="#">Carreras</a><hr>
+                <a href="#">Modelo educativo</a><hr>
+                <a href="#">Academias</a>
+              </div>
+          </div>
+          </li>
+          <li>
+              <div class="dropdown">
+              <button class="dropbtn">Vinculación</button>
+              <div class="dropdown-content">
+                <a href="#">Estancias y estadías</a><hr>
+                <a href="#">Descargables</a><hr>
+                <a href="#">Convocatorias</a><hr>
+                <a href="#">Becas externas</a>
+              </div>
+          </div>
+          </li>
+          <li>
+              <div class="dropdown">
+              <button class="dropbtn">Alumnos/Maestros</button>
+              <div class="dropdown-content">
+                <a href="#">Correo electrónico</a><hr>
+                <a href="#">Calendario escolar</a><hr>
+                <a href="#">Becas</a><hr>
+                <a href="#">Centro de idiomas (CADI)</a><hr>
+                <a href="#">Acceso al SIAAX</a><hr>
+                <a href="#">Servicios para</a>
+              </div>
+          </div>
+          </li>
+          <li><a href="#">Directorio</a></li>
+      </ul>
+   
+  </nav>
+  </header>
+         <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+
+               <footer>
+      <div class="access-links">
+        <div class="contact" >
+          <h3 style="color:floralwhite">UPBC</h3>
+          <p>
+            <b>Universidad Politécnica de Baja California</b><br>
+            Calle de la Claridad S/N<br>
+            Colonia Plutarco Elías Cales, Mexicali, Baja California, México CP.21376<br>
+            <u>Tel Conmutador:</u> (52) 686-104.2727
+          </p>
+         </div>
+          <div class="list-links">
+            <div class="block">
+              <ul>
+                <li><a href="#">Institución</a></li>
+                <li><a href="#">Normatividad</a></li>
+                <li><a href="#">Transparencia</a></li>
+                <li><a href="#">Becas</a></li>
+                <li><a href="#">Salud</a></li>
+              </ul>
+            </div>
+            <div class="block">
+              <ul>
+                <li><a href="#">Calendario escolar</a></li>
+                <li><a href="#">Estancias y estadías</a></li>
+                <li><a href="#">Carreras</a></li>
+                <li><a href="#">Modelo educativo</a></li>
+                <li><a href="#">Correo electrónico</a></li>
+              </ul>
+            </div>
+            <div class="block">
+              <ul>
+                <li><a href="#"><b>Alumnos</b>-SIAAX-Servicios</a></li>
+                <li><a href="#"><b>Maestros</b>-SIAAX-Servicios</a></li>
+                <li><a href="#">Directorio</a></li>
+              </ul>
+              <ul class="icons">
+                <li class="bubble">
+                  <a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li class="bubble">
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                </li>
+                <li class="bubble">
+                  <a href="#"><i class="fab fa-youtube"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+      </div>
+
+      <div id="footerdivider"> caquilla</div>
+      <div class="rights">
+        <h3>© Todos los Derechos reservados de la Universidad Polítecnica de Baja California</h3>
+      </div>
+      
+
+            </footer>
+    
+</body>
+</html>
+   

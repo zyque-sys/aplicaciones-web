@@ -1,0 +1,6 @@
+C:\Users\leder\source\repos\Programacion2019_2\practica2NumeroMayor\bin\Debug\practica2NumeroMayor.exe.config
+C:\Users\leder\source\repos\Programacion2019_2\practica2NumeroMayor\bin\Debug\practica2NumeroMayor.exe
+C:\Users\leder\source\repos\Programacion2019_2\practica2NumeroMayor\bin\Debug\practica2NumeroMayor.pdb
+C:\Users\leder\source\repos\Programacion2019_2\practica2NumeroMayor\obj\Debug\practica2NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\Programacion2019_2\practica2NumeroMayor\obj\Debug\practica2NumeroMayor.exe
+C:\Users\leder\source\repos\Programacion2019_2\practica2NumeroMayor\obj\Debug\practica2NumeroMayor.pdb

@@ -1,0 +1,22 @@
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\_002IntroPooWinForm.exe.config
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\_002IntroPooWinForm.exe
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\_002IntroPooWinForm.pdb
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.csprojAssemblyReference.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.Properties.Resources.resources
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.csproj.GenerateResource.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.exe
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.Form1.resources
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.Properties.Resources.resources
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.csproj.GenerateResource.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\_002IntroPooWinForm.exe.config
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\_002IntroPooWinForm.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\_002IntroPooWinForm.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\Librerias.dll
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\bin\Debug\Librerias.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.csproj.CopyComplete
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_002IntroPooWinForm\obj\Debug\_002IntroPooWinForm.pdb

@@ -1,0 +1,6 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\004b_Sockets\bin\Debug\004b_Sockets.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\004b_Sockets\bin\Debug\004b_Sockets.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\004b_Sockets\bin\Debug\004b_Sockets.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\004b_Sockets\obj\Debug\004b_Sockets.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\004b_Sockets\obj\Debug\004b_Sockets.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\004b_Sockets\obj\Debug\004b_Sockets.pdb

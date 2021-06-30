@@ -1,0 +1,12 @@
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.csprojAssemblyReference.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\Librerias\bin\Debug\Librerias.dll
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.dll
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\Librerias\bin\Debug\Librerias.dll
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\Librerias\bin\Debug\Librerias.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.dll
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\Librerias\obj\Debug\Librerias.pdb

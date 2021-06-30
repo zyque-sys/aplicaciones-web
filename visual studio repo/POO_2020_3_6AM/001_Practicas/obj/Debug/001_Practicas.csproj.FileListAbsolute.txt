@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Practicas\bin\Debug\001_Practicas.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Practicas\bin\Debug\001_Practicas.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Practicas\bin\Debug\001_Practicas.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Practicas\obj\Debug\001_Practicas.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Practicas\obj\Debug\001_Practicas.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Practicas\obj\Debug\001_Practicas.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Practicas\obj\Debug\001_Practicas.pdb

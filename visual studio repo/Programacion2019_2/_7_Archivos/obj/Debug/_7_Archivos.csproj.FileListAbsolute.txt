@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\Programacion2019_2\_7_Archivos\bin\Debug\_7_Archivos.exe.config
+C:\Users\leder\source\repos\Programacion2019_2\_7_Archivos\bin\Debug\_7_Archivos.exe
+C:\Users\leder\source\repos\Programacion2019_2\_7_Archivos\bin\Debug\_7_Archivos.pdb
+C:\Users\leder\source\repos\Programacion2019_2\_7_Archivos\obj\Debug\_7_Archivos.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\Programacion2019_2\_7_Archivos\obj\Debug\_7_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\Programacion2019_2\_7_Archivos\obj\Debug\_7_Archivos.exe
+C:\Users\leder\source\repos\Programacion2019_2\_7_Archivos\obj\Debug\_7_Archivos.pdb

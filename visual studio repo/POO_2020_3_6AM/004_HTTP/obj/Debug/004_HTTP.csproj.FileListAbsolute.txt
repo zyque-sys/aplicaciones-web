@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\004_HTTP\bin\Debug\004_HTTP.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\004_HTTP\bin\Debug\004_HTTP.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\004_HTTP\bin\Debug\004_HTTP.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\004_HTTP\obj\Debug\004_HTTP.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\004_HTTP\obj\Debug\004_HTTP.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\004_HTTP\obj\Debug\004_HTTP.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\004_HTTP\obj\Debug\004_HTTP.pdb

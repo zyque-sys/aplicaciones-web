@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\Programacion2019_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\leder\source\repos\Programacion2019_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\leder\source\repos\Programacion2019_2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\leder\source\repos\Programacion2019_2\ConsoleApp1\obj\Debug\estructurasDeControlDeFlujo.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\Programacion2019_2\ConsoleApp1\obj\Debug\estructurasDeControlDeFlujo.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\Programacion2019_2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\leder\source\repos\Programacion2019_2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

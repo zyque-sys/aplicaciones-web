@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\patito\patito\bin\Debug\patito.exe.config
+C:\Users\leder\source\repos\patito\patito\bin\Debug\patito.exe
+C:\Users\leder\source\repos\patito\patito\bin\Debug\patito.pdb
+C:\Users\leder\source\repos\patito\patito\obj\Debug\patito.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\patito\patito\obj\Debug\patito.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\patito\patito\obj\Debug\patito.exe
+C:\Users\leder\source\repos\patito\patito\obj\Debug\patito.pdb

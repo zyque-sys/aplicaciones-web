@@ -1,0 +1,355 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #3a3a3a;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 13vh;
+    background-color: #4e0611;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.lupitas {
+    color: #3a3a3a;
+    background-color: #3a3a3a;
+}
+
+section {
+    border: 0;
+    padding: 10%;
+    margin: 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+.guides li {
+    display: inline;
+}
+
+.guides ul {
+    display: inline;
+}
+
+.bluetag {
+    background-color: rgb(6, 122, 126);
+    color: mintcream;
+    border-radius: 10%;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.guides {
+    display: inline-grid;
+}
+
+.grid1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5%;
+}
+
+.transparencia, .instalaciones, .oferta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.content {
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    padding: 5%;
+}
+
+.seccional h3 {
+    width: 100%;
+}
+
+.googlemaps {
+    display: inline-grid;
+}
+
+.seccional h3 {
+    background-color: mediumseagreen;
+    color: mintcream;
+    width: 50%;
+}
+
+.turqbtn {
+    background-color: rgb(3, 104, 117);
+    color: mintcream;
+    text-decoration: none;
+    border: none;
+    border-radius: 2px;
+    width: 110px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+}
+
+.greenbtn {
+    background-color: mediumseagreen;
+    color: mintcream;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+    max-height: 20px;
+    padding: 2.5%;
+    font-size: 17px;
+}
+
+    .greenbtn a {
+        text-decoration: none;
+        color: mintcream;
+    }
+
+.bluebtn a {
+    text-decoration: none;
+    color: mintcream;
+}
+
+.bluebtn {
+    background-color: rgb(0, 96, 205);
+    border: none;
+    color: mintcream;
+    text-decoration: none;
+    padding: 0.7%;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+footer {
+    position: relative;
+    margin-top: 2%;
+    width: 100%;
+    bottom: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(58, 58, 58);
+}
+
+    footer a {
+        color: rgb(179, 179, 179);
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+.access-links {
+    padding: 5% 5%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #4e0611;
+}
+
+.list-links {
+    width: 80%;
+    display: inline;
+    color: rgb(108, 109, 110);
+    list-style: none
+}
+
+.block li:before {
+    content: '\2714';
+    margin-left: -20px;
+    margin-right: 10px;
+}
+
+.contact {
+    display: flex;
+    align-items: flex-start;
+}
+
+.list-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+#footerdivider {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    font-size: 5px;
+    color: mediumseagreen;
+    background-color: mediumseagreen;
+}
+
+.rights {
+    bottom: 0;
+    padding: 5% 5%;
+    display: flex;
+    align-items: flex-end;
+    background-color: #181818;
+}
+
+hr {
+    border-color: rgb(29, 29, 29);
+    opacity: 40%;
+}
+
+.logo a {
+    color: rgb(92, 91, 91);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.divider {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(235, 235, 235);
+    width: 100%;
+    height: 100px;
+}
+
+.icons {
+    display: flex;
+    justify-content: flex-start;
+    width: 40%;
+}
+
+    .icons li {
+        padding-inline-end: 5px;
+        list-style: none;
+    }
+
+    .icons a {
+        text-decoration: none;
+    }
+
+    .icons i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgb(75, 75, 75);
+        background-color: rgb(241, 240, 238);
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;
+        font-size: 17px;
+    }
+
+.iconsbig i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(75, 75, 75);
+    background-color: rgb(241, 240, 238);
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+    .nav-links li {
+        list-style: none;
+        display: inline;
+        padding: 3%;
+    }
+
+    .nav-links a {
+        color: rgb(243, 243, 243);
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 13px;
+    }
+
+.dropbtn {
+    background-color: #4e0611;
+    border: none;
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #3a3a3a;
+    min-width: 160px;
+    z-index: 1;
+    transition: 1s all ease-in-out;
+}
+
+    .dropdown-content a {
+        color: rgb(241, 241, 241);
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content a:hover {
+    background-color: mediumseagreen;
+    transition: 0.25s all ease-in-out;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    transition: 1s all ease-in-out;
+}
+
+.dropdown:hover .dropbtn {
+    color: white;
+    transition: 0.25s all ease-in-out;
+}
+
+::selection {
+    background: #4eb478;
+    color: #fff;
+    text-shadow: none;
+}
+
+.nav-links .active {
+    color: mediumseagreen;
+}
+
+.bubble:hover i {
+    background-color: mediumseagreen;
+    color: floralwhite;
+    transition: 0.25s all ease-in-out;
+}
+
+#fotocubrebocas {
+    border-radius: 5%;
+    display: flex;
+    align-content: flex-start;
+    float: right;
+    background-color: rgb(235, 235, 235);
+}

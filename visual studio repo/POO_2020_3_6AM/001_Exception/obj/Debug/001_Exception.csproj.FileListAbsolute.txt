@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Exception\bin\Debug\001_Exception.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Exception\bin\Debug\001_Exception.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Exception\bin\Debug\001_Exception.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Exception\obj\Debug\001_Exception.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Exception\obj\Debug\001_Exception.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Exception\obj\Debug\001_Exception.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\001_Exception\obj\Debug\001_Exception.pdb

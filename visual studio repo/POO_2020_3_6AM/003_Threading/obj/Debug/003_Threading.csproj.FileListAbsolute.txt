@@ -1,0 +1,2 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\003_Threading\obj\Debug\003_Threading.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\003_Threading\obj\Debug\003_Threading.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_003_ArregloBidimensional\bin\Debug\_003_ArregloBidimensional.exe.config
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_003_ArregloBidimensional\bin\Debug\_003_ArregloBidimensional.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_003_ArregloBidimensional\bin\Debug\_003_ArregloBidimensional.pdb
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_003_ArregloBidimensional\obj\Debug\_003_ArregloBidimensional.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_003_ArregloBidimensional\obj\Debug\_003_ArregloBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_003_ArregloBidimensional\obj\Debug\_003_ArregloBidimensional.exe
+C:\Users\leder\source\repos\(1)EstructuraDeDatos2019_3_4AM\EstructuraDeDatos2019_3_4AM\_003_ArregloBidimensional\obj\Debug\_003_ArregloBidimensional.pdb

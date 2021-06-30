@@ -1,0 +1,10 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\bin\Debug\002b_ProyectoSystemDrawing.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\bin\Debug\002b_ProyectoSystemDrawing.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\bin\Debug\002b_ProyectoSystemDrawing.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\obj\Debug\002b_ProyectoSystemDrawing.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\obj\Debug\_002b_ProyectoSystemDrawing.Oso.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\obj\Debug\_002b_ProyectoSystemDrawing.Properties.Resources.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\obj\Debug\002b_ProyectoSystemDrawing.csproj.GenerateResource.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\obj\Debug\002b_ProyectoSystemDrawing.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\obj\Debug\002b_ProyectoSystemDrawing.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\002b_ProyectoSystemDrawing\obj\Debug\002b_ProyectoSystemDrawing.pdb

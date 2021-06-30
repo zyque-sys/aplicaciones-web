@@ -1,0 +1,7 @@
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001IntroPooB\bin\Debug\_001IntroPooB.exe.config
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001IntroPooB\bin\Debug\_001IntroPooB.exe
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001IntroPooB\bin\Debug\_001IntroPooB.pdb
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001IntroPooB\obj\Debug\_001IntroPooB.csprojAssemblyReference.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001IntroPooB\obj\Debug\_001IntroPooB.csproj.CoreCompileInputs.cache
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001IntroPooB\obj\Debug\_001IntroPooB.exe
+C:\Users\Geordano Hamburgo\source\repos\EstructuraDeDatos2019_3_4AM\_001IntroPooB\obj\Debug\_001IntroPooB.pdb

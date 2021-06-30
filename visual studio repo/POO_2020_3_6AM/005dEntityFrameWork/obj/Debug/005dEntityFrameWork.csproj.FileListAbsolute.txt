@@ -1,0 +1,9 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\bin\Debug\005dEntityFrameWork.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\bin\Debug\005dEntityFrameWork.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\bin\Debug\005dEntityFrameWork.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\obj\Debug\005dEntityFrameWork.csprojAssemblyReference.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\obj\Debug\_005dEntityFrameWork.Properties.Resources.resources
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\obj\Debug\005dEntityFrameWork.csproj.GenerateResource.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\obj\Debug\005dEntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\obj\Debug\005dEntityFrameWork.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\005dEntityFrameWork\obj\Debug\005dEntityFrameWork.pdb

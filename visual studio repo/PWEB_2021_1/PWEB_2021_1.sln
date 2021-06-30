@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_001_MiPrimerAplicacionWEB", "_001_MiPrimerAplicacionWEB.vbproj", "{2832CB79-7D2C-468C-BDCB-AD72B272DD47}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_002_PaginaPhishingUPBC", "_002_PaginaPhishingUPBC\_002_PaginaPhishingUPBC.vbproj", "{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_004_LoginEncrypt", "..\_004_LoginEncrypt\_004_LoginEncrypt.csproj", "{D7ED2900-2C9A-4AF6-829F-4959A66D24CB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_006_SOAPWebservices", "..\_006_SOAPWebservices\_006_SOAPWebservices.vbproj", "{1EE4DAD9-5CAA-4407-8E2C-B3D55AC23028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2832CB79-7D2C-468C-BDCB-AD72B272DD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2832CB79-7D2C-468C-BDCB-AD72B272DD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2832CB79-7D2C-468C-BDCB-AD72B272DD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2832CB79-7D2C-468C-BDCB-AD72B272DD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7ED2900-2C9A-4AF6-829F-4959A66D24CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7ED2900-2C9A-4AF6-829F-4959A66D24CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7ED2900-2C9A-4AF6-829F-4959A66D24CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7ED2900-2C9A-4AF6-829F-4959A66D24CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE4DAD9-5CAA-4407-8E2C-B3D55AC23028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE4DAD9-5CAA-4407-8E2C-B3D55AC23028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE4DAD9-5CAA-4407-8E2C-B3D55AC23028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE4DAD9-5CAA-4407-8E2C-B3D55AC23028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF024BFD-5C57-46EC-A116-9ADF63A4812C}
+	EndGlobalSection
+EndGlobal

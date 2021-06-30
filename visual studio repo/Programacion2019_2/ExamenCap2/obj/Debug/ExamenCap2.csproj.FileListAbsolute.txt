@@ -1,0 +1,7 @@
+C:\Programacion\repos\Programacion2019_2\ExamenCap2\bin\Debug\ExamenCap2.exe.config
+C:\Programacion\repos\Programacion2019_2\ExamenCap2\bin\Debug\ExamenCap2.exe
+C:\Programacion\repos\Programacion2019_2\ExamenCap2\bin\Debug\ExamenCap2.pdb
+C:\Programacion\repos\Programacion2019_2\ExamenCap2\obj\Debug\ExamenCap2.csprojAssemblyReference.cache
+C:\Programacion\repos\Programacion2019_2\ExamenCap2\obj\Debug\ExamenCap2.csproj.CoreCompileInputs.cache
+C:\Programacion\repos\Programacion2019_2\ExamenCap2\obj\Debug\ExamenCap2.exe
+C:\Programacion\repos\Programacion2019_2\ExamenCap2\obj\Debug\ExamenCap2.pdb

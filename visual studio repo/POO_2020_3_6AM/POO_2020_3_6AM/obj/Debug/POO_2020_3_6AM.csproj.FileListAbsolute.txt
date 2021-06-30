@@ -1,0 +1,6 @@
+C:\Users\leder\source\repos\POO_2020_3_6AM\POO_2020_3_6AM\bin\Debug\POO_2020_3_6AM.exe.config
+C:\Users\leder\source\repos\POO_2020_3_6AM\POO_2020_3_6AM\bin\Debug\POO_2020_3_6AM.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\POO_2020_3_6AM\bin\Debug\POO_2020_3_6AM.pdb
+C:\Users\leder\source\repos\POO_2020_3_6AM\POO_2020_3_6AM\obj\Debug\POO_2020_3_6AM.csproj.CoreCompileInputs.cache
+C:\Users\leder\source\repos\POO_2020_3_6AM\POO_2020_3_6AM\obj\Debug\POO_2020_3_6AM.exe
+C:\Users\leder\source\repos\POO_2020_3_6AM\POO_2020_3_6AM\obj\Debug\POO_2020_3_6AM.pdb
